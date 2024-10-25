@@ -1,7 +1,9 @@
 ﻿# projet_final
 # Bibliothèques à installer :
-dotenv : pip install python-dotenv
-tkinter : pip install python3-tk
+
+- dotenv : pip install python-dotenv
+
+- tkinter : pip install python3-tk
 
 # Récuperer le projet :
 git clone https://github.com/abou94190/projet_final.git

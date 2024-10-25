@@ -3,7 +3,7 @@
 
 - dotenv : pip install python-dotenv
 
-- tkinter : pip install python3-tk
+- tkinter : pip install tk
 
 # Récuperer le projet :
 git clone https://github.com/abou94190/projet_final.git
